@@ -18,21 +18,21 @@ global.autoread = false // auto read pesan / message
 //global.available = false //status online (online)
 
 // Other
-global.botname = "DanzBot-MD😈" //namabot kalian
-global.ownername= "Danzz" //nama kalian
+global.botname = "JefBotz-MD😈" //namabot kalian
+global.ownername= "JEF OWNER" //nama kalian
 global.myweb ="https://github.com/DanzGantevk75" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/UCAMpDDfVjxdxKS8i8MLrSEQ" //bebas asal jan hapus
 global.github = "https://github.com/DanzGantevk75" //bebas
-global.email = "witmawati4@gmail.com" //bebas
+global.email = "yutubababelbaru@gmail.com" //bebas
 global.region = "Indonesia" //bebas
-global.ownernomer = "6288270863279" // nomor wa kalian
-global.ownernomerr = "6288270863279" //nmr wa kalian
+global.ownernomer = "628152300792" // nomor wa kalian
+global.ownernomerr = "6285830226204" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["6288270863279","6288270863279","6288270863279"] //ganti agar fitur owner bisa di gunakan
-global.packname = 'DanzBot-MD😈' //sticker wm ubah
-global.author = 'Di Buat Oleh DanzBot-MD😈' //sticker wm ganti nama kalian
+global.owner = ["628152300792","6285830226204","6288270863279"] //ganti agar fitur owner bisa di gunakan
+global.packname = 'JefBotz-MD😈' //sticker wm ubah
+global.author = 'Di Buat Oleh JefBotz-MD😈' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
